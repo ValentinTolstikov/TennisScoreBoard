@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    justify-content: center;
+}
+
+.body-Color {
+    background-color: black;
+}
+
+.main {
+    width: 600px;
+    white-space: nowrap;
+    margin-top: 50px;
+    flex-direction: column;
+}
+
+.start-link {
+    display: flex;
+    margin-top: 30px;
+    background-color: white;
+    color: black;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+    justify-content: center;
+}
+
+.bc-lightgray {
+    background-color:white;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.table-header {
+    white-space: nowrap;
+}
+
+.h1 {
+    font-size: 48px;
+}
+
+.border-radius-24 {
+    border-radius: 20px;
+}
