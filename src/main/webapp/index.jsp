@@ -1,8 +1,8 @@
-<%@ page contentType="text/html;charset=UTF-8" %>
+
 <html>
 <head>
     <title>Большой теннис</title>
-    <link href="<%=request.getContextPath()%>/css/style.css" rel="stylesheet">
+    <link href="/TennisScoreBoard/css/style.css" rel="stylesheet">
 </head>
 <body class="body-Color">
 <header>

@@ -6,7 +6,7 @@
 }
 
 .body-Color {
-    background-color: F7F0D6;
+    background-color: #F7F0D6;;
 }
 
 .main {
@@ -19,8 +19,8 @@
 .start-link {
     display: flex;
     margin-top: 30px;
-    background-color: white;
-    color: black;
+    background-color: F45744;
+    color: #F7F0D6;
     padding: 1em 1.5em;
     text-decoration: none;
     text-transform: uppercase;
@@ -28,7 +28,7 @@
 }
 
 .bc-lightgray {
-    background-color:white;
+    background-color: 554F0E;
 }
 
 .p-20 {
@@ -37,6 +37,10 @@
 
 .table-header {
     white-space: nowrap;
+}
+
+.color-Title {
+    color:767000;
 }
 
 .h1 {
